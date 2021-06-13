@@ -1,0 +1,23 @@
+body {
+    background-color: coral;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+#Text {
+    color: cornsilk;
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+}
+#Buttons {
+    width: 3 cm;
+    height:3 cm;
+    align-content: center;
+    display: block;
+    text-align: center;
+}
+#github {
+    margin-top: 7cm;
+    display: block;
+    text-align: center;
+    align-content: center;
+}
